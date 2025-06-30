@@ -30,7 +30,7 @@
 </h2>
 
 ### 📈 GitHub Activity Graph:
-[![okwareddevnest's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=okwareddevnest)](https://github.com/okwareddevnest)
+[![okwareddevnest's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmanT776)](https://github.com/AmanT776 )
 
 
 

@@ -42,7 +42,7 @@
 ----------------------------------------------------------------------------------------------------------------------------
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=AmanT776&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AmanT776&hide=javascript,html,css,scss,python&theme=radical">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanT776)](https://github.com/AmanT776/github-readme-stats)
 </p>
 
 <!--   profile-green-animate -->

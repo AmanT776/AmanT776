@@ -36,13 +36,13 @@
 
 ### Github Streak
 ----------------------------------------------------------------------------------------------------------------------------
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=okwareddevnest&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AmanT776&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ### Github Stats
 ----------------------------------------------------------------------------------------------------------------------------
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=okwareddevnest&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=okwareddevnest&hide=dart,django,javascript,html,css,scss,pythonless&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=AmanT776&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AmanT776&hide=react,mongodb,javascript,html,css,scss,pythonless&theme=radical">
 </p>
 
 <!--   profile-green-animate -->

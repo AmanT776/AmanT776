@@ -48,4 +48,5 @@
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
+[![Highlight Pro Badge](https://img.shields.io/badge/GitHub%20Community-Highlight%20Pro-purple)](https://github.community/u/your-username)
 

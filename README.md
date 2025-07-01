@@ -14,9 +14,7 @@
     <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask" width="80" height="30"/
     <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP" width="80" height="30"/>
-    <img src="https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub" width="80" height="30"/>

@@ -28,7 +28,7 @@
 </h2>
 
 ### 📈 GitHub Activity Graph:
-[![AmanT776's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmanT776)](https://github.com/AmanT776 )
+[![AmnT776's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmanT776)](https://github.com/AmanT776/github-readme-activity-graph)
 
 
 

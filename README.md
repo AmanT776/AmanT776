@@ -39,12 +39,12 @@
 ### Github Stats
 ----------------------------------------------------------------------------------------------------------------------------
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmanT776&show_icons=true&theme=radical"> 
+  <img src="https://github-readme-stats.vercel.app/apiusername=AmanT776&show=reviews,prs_merged,prs_merged_percentage)"> 
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AmanT776&theme=radical">
 </p>
 
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
-[![Highlight Pro Badge](https://img.shields.io/badge/GitHub%20Community-Highlight%20Pro-purple)](https://github.community/u/your-username)
+[![Highlight Pro Badge](https://img.shields.io/badge/GitHub%20Community-Highlight%20Pro-purple)](https://github.community/u/AmanT776)
 

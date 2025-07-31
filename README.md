@@ -39,7 +39,7 @@
 ### Github Stats
 ----------------------------------------------------------------------------------------------------------------------------
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmanT776&show=reviews,prs_merged,prs_merged_percentage)"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=AmanT776)"> 
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AmanT776&theme=radical">
 </p>
 

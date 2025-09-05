@@ -35,7 +35,7 @@
 ### Github Streak
 ----------------------------------------------------------------------------------------------------------------------------
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmanT776&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanT776&theme=radical&hide_border=true&custom_title=🔥%20Contribution%20Graph&count_private=true" />
 </p>
 
 

@@ -39,14 +39,4 @@
 </p>
 
 
-### Github Stats
-----------------------------------------------------------------------------------------------------------------------------
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmanT776&show_icons=true&theme=radical&count_private=true" />
-</p>
-
-
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
-[![Highlight Pro Badge](https://img.shields.io/badge/GitHub%20Community-Highlight%20Pro-purple)](https://github.community/u/AmanT776)
 

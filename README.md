@@ -34,10 +34,11 @@
 
 ### Github Streak
 ----------------------------------------------------------------------------------------------------------------------------
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AmanT776&theme=radical&count_private=true&hide_border=true)](https://git.io/streak-stats)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmanT776&show_icons=true&theme=radical&count_private=true" />
 </p>
+
+
 
 
 

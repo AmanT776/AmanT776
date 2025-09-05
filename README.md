@@ -35,6 +35,10 @@
 ### Github Streak
 ----------------------------------------------------------------------------------------------------------------------------
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AmanT776&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AmanT776&theme=radical&margin-w=15&margin-h=15&row=1&column=6" />
+</p>
+
 
 ### Github Stats
 ----------------------------------------------------------------------------------------------------------------------------

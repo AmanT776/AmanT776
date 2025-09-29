@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=47A248" />
   <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/django-000?style=flat-square&logo=django&logoColor=777BB4" />
-  <img src="https://img.shields.io/badge/C++?style=flat-square&logo=C++&logoColor=5599ff" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=4479A1" />
   <img src="https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux&logoColor=FCC624" />
   <img src="https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=F05032" />
@@ -36,5 +36,14 @@
 
 ---
 
-## 📈 GitHub Activity
-[![Amanuel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmanT776&theme=github-dark&hide_border=true)](https://github.com/AmanT776)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmanT776&show_icons=true&theme=github_dark&hide_border=true" alt="Amanuel's GitHub Stats" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanT776&theme=github-dark&hide_border=true" alt="Amanuel's GitHub Streak" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanT776&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="150em"/>
+</p>
+

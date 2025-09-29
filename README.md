@@ -17,7 +17,9 @@
   <img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=47A248" />
   <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/PHP-000?style=flat-square&logo=php&logoColor=777BB4" />
+   <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/django-000?style=flat-square&logo=php&logoColor=777BB4" />
+   <img src="https://img.shields.io/badge/cpp?style=flat-square&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=4479A1" />
   <img src="https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux&logoColor=FCC624" />
   <img src="https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=F05032" />

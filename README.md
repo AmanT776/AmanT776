@@ -39,9 +39,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmanT776&show_icons=true&theme=github_dark&hide_border=true" alt="Amanuel's GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmanT776&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Amanuel's GitHub Stats" height="180em"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanT776&theme=github-dark&hide_border=true" alt="Amanuel's GitHub Streak" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AmanT776&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" />
 
 </p>
 

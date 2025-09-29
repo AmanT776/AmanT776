@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=47A248" />
   <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/django-000?style=flat-square&logo=django&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/Django-000?style=flat-square&logo=django&logoColor=092E20" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=4479A1" />
   <img src="https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux&logoColor=FCC624" />
@@ -29,15 +29,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AmanT776&theme=radical&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AmanT776&theme=onedark&row=1&column=7&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmanT776&show_icons=true&theme=github_dark&hide_border=true" alt="Amanuel's GitHub Stats" height="180em"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanT776&theme=github-dark&hide_border=true" alt="Amanuel's GitHub Streak" height="180em"/>
@@ -47,3 +46,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanT776&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="150em"/>
 </p>
 
+---
+
+## 📌 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanT776&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 💡 Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmanT776&style=flat-square&color=blue" alt="Profile Views" />
+</p>

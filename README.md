@@ -31,8 +31,9 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmanT776&theme=onedark&row=1&column=7&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AmanT776&theme=radical&row=1&column=7" alt="GitHub Trophies"/>
 </p>
+
 
 ---
 

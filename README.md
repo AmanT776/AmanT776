@@ -54,14 +54,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanT776&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
----
-
-## 💡 Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AmanT776&style=flat-square&color=blue" alt="Profile Views" />

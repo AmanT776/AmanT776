@@ -57,4 +57,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AmanT776&style=flat-square&color=blue" alt="Profile Views" />
-</p> refactor this and add more important and appealing component instead of the graph
+</p>

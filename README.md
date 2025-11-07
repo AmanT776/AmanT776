@@ -54,4 +54,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanT776&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
+## 📜 Certifications
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/6bcd1dc4-95ba-4c29-a081-49d4bcda576b"><img src="https://github.com/user-attachments/assets/6bcd1dc4-95ba-4c29-a081-49d4bcda576b" alt="cert1" width="220" /></a>
+  <a href="https://github.com/user-attachments/assets/6f0d8280-dba9-407d-8f36-b105949d01cc"><img src="https://github.com/user-attachments/assets/6f0d8280-dba9-407d-8f36-b105949d01cc" alt="cert2" width="220" /></a>
+  <a href="https://github.com/user-attachments/assets/e8a0aa5a-5e8e-457a-8928-5d475e4029fb"><img src="https://github.com/user-attachments/assets/e8a0aa5a-5e8e-457a-8928-5d475e4029fb" alt="cert3" width="220" /></a>
+  <a href="https://github.com/user-attachments/assets/4f561813-2a81-413a-b14f-7f22048e1f03"><img src="https://github.com/user-attachments/assets/4f561813-2a81-413a-b14f-7f22048e1f03" alt="cert4" width="220" /></a>
+</p>
 

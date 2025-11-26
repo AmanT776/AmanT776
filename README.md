@@ -48,6 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanT776&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="150em"/>
 </p>
 
+
 ---
 
 ## 📌 Contribution Graph
@@ -58,6 +59,9 @@
 ## 📜 Certifications
 <p align="center">
   <a href="https://github.com/user-attachments/assets/6bcd1dc4-95ba-4c29-a081-49d4bcda576b"><img src="https://github.com/user-attachments/assets/6bcd1dc4-95ba-4c29-a081-49d4bcda576b" alt="cert1" width="400" /></a>
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/00c5dff2-551d-48b8-88d9-4ca0d6dd91ff"><img width="420"  alt="Screenshot from 2025-11-26 21-50-26" src="https://github.com/user-attachments/assets/00c5dff2-551d-48b8-88d9-4ca0d6dd91ff" /></a>
+  
   <a href="https://github.com/user-attachments/assets/6f0d8280-dba9-407d-8f36-b105949d01cc"><img src="https://github.com/user-attachments/assets/6f0d8280-dba9-407d-8f36-b105949d01cc" alt="cert2" width="400" /></a>
   <a href="https://github.com/user-attachments/assets/e8a0aa5a-5e8e-457a-8928-5d475e4029fb"><img src="https://github.com/user-attachments/assets/e8a0aa5a-5e8e-457a-8928-5d475e4029fb" alt="cert3" width="400" /></a>
   <a href="https://github.com/user-attachments/assets/4f561813-2a81-413a-b14f-7f22048e1f03"><img src="https://github.com/user-attachments/assets/4f561813-2a81-413a-b14f-7f22048e1f03" alt="cert4" width="400" /></a>

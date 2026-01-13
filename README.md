@@ -51,10 +51,10 @@
 
 ---
 
-## 📌 Contribution Graph
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanT776&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
+</p> -->
 
 ## 📜 Certifications
 <p align="center">

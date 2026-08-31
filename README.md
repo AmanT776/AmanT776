@@ -12,7 +12,7 @@
 ## ⚒️ Languages & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk&logoColor=007396" />
-  <img src="https://img.shields.io/badge//Go-00ADD8?style=flat-square&logo=go&logoColor=00ADD8" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=3776AB" />
   

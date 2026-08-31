@@ -12,13 +12,9 @@
 ## ⚒️ Languages & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk&logoColor=007396" />
-  <img src="https://img.shields.io/badge/Go-000?style=flat-square&logo=go&logoColor=00ADD8" />
+  <img src="https://img.shields.io/badge//Go-00ADD8?style=flat-square&logo=go&logoColor=00ADD8" />
   <img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=47A248" />
   <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Django-000?style=flat-square&logo=django&logoColor=092E20" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   
   <img src="https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=4479A1" />
   <img src="https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux&logoColor=FCC624" />

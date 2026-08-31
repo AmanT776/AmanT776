@@ -11,14 +11,10 @@
 
 ## ⚒️ Languages & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Java-000?style=flat-square&logo=mongodb&logoColor=47A248" />
   <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Django-000?style=flat-square&logo=django&logoColor=092E20" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Golang-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   
   <img src="https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=4479A1" />
   <img src="https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux&logoColor=FCC624" />
@@ -42,12 +38,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmanT776&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Amanuel's GitHub Stats" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanT776&theme=github-dark&hide_border=true" alt="Amanuel's GitHub Streak" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmanT776&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Amanuel's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanT776&theme=github-dark&hide_border=true" alt="Amanuel's GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanT776&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="150em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanT776&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
 </p>
 
 
@@ -60,6 +56,7 @@
   <a href="https://github.com/user-attachments/assets/00c5dff2-551d-48b8-88d9-4ca0d6dd91ff"><img width="400"  alt="Screenshot from 2025-11-26 21-50-26" src="https://github.com/user-attachments/assets/00c5dff2-551d-48b8-88d9-4ca0d6dd91ff" /></a>
   <a href="https://www.boot.dev/certificates/2e742646-13bc-492b-a70c-e596a07c64f8"><img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/2e742646-13bc-492b-a70c-e596a07c64f8.jpeg?v=1788165517" alt="Boot.dev Learn Kubernetes certificate" width="400" /></a>
   <a href="https://www.boot.dev/certificates/2de2d8b7-a80d-4897-8a18-6a5d61b8d9bf"><img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/2de2d8b7-a80d-4897-8a18-6a5d61b8d9bf.jpeg?v=1784063555" alt="Boot.dev Learn Go certificate" width="400" /></a>
+  <a href="https://www.boot.dev/certificates/07782278-b373-436d-bd9e-f556fe58568d"><img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/07782278-b373-436d-bd9e-f556fe58568d.jpeg?v=1785151358" alt="Boot.dev Learn Docker certificate" width="400" /></a>
   <a href="https://github.com/user-attachments/assets/6f0d8280-dba9-407d-8f36-b105949d01cc"><img src="https://github.com/user-attachments/assets/6f0d8280-dba9-407d-8f36-b105949d01cc" alt="cert2" width="400" /></a>
   <a href="https://github.com/user-attachments/assets/e8a0aa5a-5e8e-457a-8928-5d475e4029fb"><img src="https://github.com/user-attachments/assets/e8a0aa5a-5e8e-457a-8928-5d475e4029fb" alt="cert3" width="400" /></a>
   <a href="https://github.com/user-attachments/assets/4f561813-2a81-413a-b14f-7f22048e1f03"><img src="https://github.com/user-attachments/assets/4f561813-2a81-413a-b14f-7f22048e1f03" alt="cert4" width="400" /></a>

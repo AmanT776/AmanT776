@@ -11,10 +11,14 @@
 
 ## ⚒️ Languages & Tools
 <p align="left">
+  <img src="https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk&logoColor=007396" />
+  <img src="https://img.shields.io/badge/Go-000?style=flat-square&logo=go&logoColor=00ADD8" />
   <img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Java-000?style=flat-square&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=47A248" />
   <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Golang-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-000?style=flat-square&logo=django&logoColor=092E20" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   
   <img src="https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=4479A1" />
   <img src="https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux&logoColor=FCC624" />
@@ -25,30 +29,6 @@
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmanT776&theme=radical&row=1&column=5&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
-</p>
-
-
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmanT776&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Amanuel's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanT776&theme=github-dark&hide_border=true" alt="Amanuel's GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanT776&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
-</p>
-
-
----
-
 
 ## 📜 Certifications
 <p align="center">
